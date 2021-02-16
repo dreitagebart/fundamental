@@ -1,0 +1,26 @@
+{
+  "name": "@dreitagebart/fundamental",
+  "version": "1.0.0",
+  "description": "SAP Fiori design react component library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreitagebart/fundamental.git"
+  },
+  "keywords": [
+    "react",
+    "fiori",
+    "sap"
+  ],
+  "author": "dreitagebart <stefan.buechold@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dreitagebart/fundamental/issues"
+  },
+  "homepage": "https://github.com/dreitagebart/fundamental#readme"
+}
